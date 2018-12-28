@@ -6,14 +6,13 @@ The "ML" course at Stanford , or to say the most popular Machine Learning course
 
 No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf)
 
-𓄆 <b>Importnat Books : </b><br/>
+𓄆 <b>Important Books : </b><br/>
 𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow_2.pdf) <br/>
 𓊖 [Introduction to Machine Learning - Ethem Alpaydın](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Introduction%20to%20Machine%20Learning%20Ethem%20Alpayd%C4%B1n_machinelearning_2010.pdf) <br/>
 𓊖 []() <br/>
 𓊖 [Optimization for Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Optimization%20for%20Machine%20Learning%20%5BSra%2C%20Nowozin%20%26%20Wright%202011-09-30%5D.pdf) <br/>
 𓊖 []() <br/>
 𓊖 [Pattern Recognition and Machine Learning Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf) <br/>
-𓊖 [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf) <br/>
 
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
 
@@ -65,7 +64,7 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Google Scholar](https://scholar.google.co.in/) | [arXiv](https://arxiv.org/) | [UCI ML dataset repository](http://archive.ics.uci.edu/ml/index.php)
 
-[Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+[Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf) 
 
 # FINAL PROJECT
 
