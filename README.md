@@ -57,10 +57,10 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 <h2><b> ♞ UNSUPERVISED LEARNING </b></h2>
 
 𓀽 Clustering. [Unsupervised Learning, k-means clustering](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes7a.pdf) <br/>
-𓀽 EM. [Mixture of Gaussians](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes7b.pdf) <br/>
-𓀽 Factor analysis. <br/>
-𓀽 PCA (Principal components analysis). <br/>
-𓀽 ICA (Independent components analysis). <br/>
+𓀽 [EM Algorithm](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes8.pdf). [Mixture of Gaussians](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes7b.pdf) <br/>
+𓀽 [Factor analysis](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes9.pdf) <br/>
+𓀽 PCA ([Principal components analysis](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes10.pdf)) <br/>
+𓀽 ICA ([Independent components analysis](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes11.pdf)) <br/>
 
 <h2><b> ♞ REINFORCEMENT LEARNING AND CONTROL </b></h2>
 
