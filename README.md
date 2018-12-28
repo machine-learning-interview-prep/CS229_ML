@@ -21,10 +21,10 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 # 🥤 Homeworks (Problem Set):
 
 🛦 [PSET 0](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps0.pdf) <br/>
-🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) <br/> 
+🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) - [testdata](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/data.zip)<br/> 
 🛦 [PSET 2](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps2.txt) <br/>
 🛦 [PSET 3](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps3.txt) - [peppers_numpy](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/peppers_numpy.zip) <br/>
-🛦 [PSET 4](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4_v5_release.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4.txt) <br/>
+🛦 [PSET 4](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4_v5_release.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps4.txt) - [autograder&solution](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/autograder.zip) <br/>
 
 # Course:
 
