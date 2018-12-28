@@ -64,7 +64,17 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Google Scholar](https://scholar.google.co.in/) | [arXiv](https://arxiv.org/) | [UCI ML dataset repository](http://archive.ics.uci.edu/ml/index.php)
 
-[Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf) 
+[Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf)
+
+𓄆 <b>[Cheatsheets](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cheatsheets) : </b><br/>
+
+𓀯 [Supervised Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-supervised-learning.pdf)
+𓀯 [Unsupervised Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-unsupervised-learning.pdf)
+𓀯 [Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-machine-learning-tips-and-tricks.pdf)
+𓀯 [Deep Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-deep-learning.pdf)
+𓀯 [Algebra Calculus](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/refresher-algebra-calculus.pdf)
+𓀯 [Probability Statistics](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/refresher-probabilities-statistics.pdf)
+𓀯 [Combined](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/super-cheatsheet-machine-learning.pdf)
 
 # FINAL PROJECT
 
