@@ -6,7 +6,11 @@ The "ML" course at Stanford , or to say the most popular Machine Learning course
 
 No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf)
 
+<b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
+
 # [Syllabus](http://cs229.stanford.edu/syllabus.html) | [Projects](http://cs229.stanford.edu/projects.html) 
+
+# Homeworks
 
 # Course:
 
