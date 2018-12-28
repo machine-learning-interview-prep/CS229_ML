@@ -56,7 +56,7 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Google Scholar](https://scholar.google.co.in/) | [arXiv](https://arxiv.org/) | [UCI ML dataset repository](http://archive.ics.uci.edu/ml/index.php)
 
-[CS229 Notes](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+[Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 # FINAL PROJECT
 
