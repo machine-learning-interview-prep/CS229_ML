@@ -8,4 +8,4 @@ The "ML" course at Stanford , or to say the most popular Machine Learning course
 
 # Course:
 
-[Exams]() | [MIT ML](http://machinelearning.mit.edu/)
+[Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
