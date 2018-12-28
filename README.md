@@ -51,13 +51,13 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <h2><b> ♞ DEEP LEARNING </b></h2>
 
-𓀽 Neural Networks. Backpropagation. <br/>
-𓀽 Vectorization. <br/>
+𓀽 Neural Networks, [Deep Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes-deep_learning.pdf), [Backpropagation](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes-backprop.pdf), [Trees](http://cs229.stanford.edu/notes/rf-notes.pdf) <br/>
+𓀽 [Online Learning and the Perceptron Algorithm](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes6.pdf), Vectorization. <br/>
 
 <h2><b> ♞ UNSUPERVISED LEARNING </b></h2>
 
-𓀽 Clustering. K-means. <br/>
-𓀽 EM. Mixture of Gaussians. <br/>
+𓀽 Clustering. [Unsupervised Learning, k-means clustering](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes7a.pdf) <br/>
+𓀽 EM. [Mixture of Gaussians](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes7b.pdf) <br/>
 𓀽 Factor analysis. <br/>
 𓀽 PCA (Principal components analysis). <br/>
 𓀽 ICA (Independent components analysis). <br/>
