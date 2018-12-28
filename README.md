@@ -52,8 +52,8 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓀽 Q-learning. Value function approximation. Policy search. Reinforce. POMDPs. <br/>
 
 
-[Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+[Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Google Scholar](https://scholar.google.co.in/) | [arXiv](https://arxiv.org/)
 
 # FINAL PROJECT
 
-CS229 gives a lot of importance to Final Project, going through the [past projects](http://cs229.stanford.edu/projects.html) , I was happy to see the dynamic range of wonderful ideas and application of ML all the way. I was ecstatic to start my own and did " ".
+CS229 gives a lot of importance to Final Project, going through the [past projects](http://cs229.stanford.edu/projects.html) , I was happy to see the dynamic range of wonderful ideas and application of ML all the way. Good CS229 projects are either publishable or minor changes to be able to publish the project. [NIPS (NeurIPS)](https://nips.cc/) , [ICML](https://icml.cc/) are the ML conferences to show ML works to other people around the world. I was ecstatic to start my own and did " ".
