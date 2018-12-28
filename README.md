@@ -67,7 +67,6 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 [Official Notes](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cs229-notes-all) : [compiled](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/CS229.pdf) | [CS229 Notes by Shervine](https://stanford.edu/~shervine/teaching/cs-229.html) | [Advice on applying ML - Andrew NG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/ML-advice.pdf) | [Machine learning study guides tailored to CS 229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf)
 
 𓄆 <b>[Cheatsheets](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cheatsheets) : </b><br/>
-
 𓀯 [Supervised Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-supervised-learning.pdf)
 𓀯 [Unsupervised Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-unsupervised-learning.pdf)
 𓀯 [Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/cheatsheet-machine-learning-tips-and-tricks.pdf)
