@@ -71,11 +71,11 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <h2><b> Supplementary Notes </b></h2>
 
-♚ Binary classification with +/-1 labels [pdf]() <br/>
-♚ Boosting algorithms and weak learning [pdf]() <br/>
-♚ Functional after implementing stump_booster.m in PS2. [here]() <br/>
-♚ The representer theorem [pdf]() <br/>
-♚ Hoeffding's inequality [pdf]() <br/>
+♚ Binary classification with +/-1 labels [pdf](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/supplementary_notes/1%20-%20loss-functions.pdf) <br/>
+♚ Boosting algorithms and weak learning [pdf](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/supplementary_notes/2%20-%20boosting.pdf) <br/>
+♚ Functional after implementing stump_booster.m in PS2. [here](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/supplementary_notes/3%20-%20boosting_example.m) <br/>
+♚ The representer theorem [pdf](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/supplementary_notes/4%20-%20representer-function.pdf) <br/>
+♚ Hoeffding's inequality [pdf](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/supplementary_notes/5%20-%20hoeffding.pdf) <br/>
 
 <h2><b> Section Notes </b></h2>
 
