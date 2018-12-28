@@ -64,9 +64,10 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <h2><b> ♞ REINFORCEMENT LEARNING AND CONTROL </b></h2>
 
-𓀽 MDPs. Bellman equations. <br/>
-𓀽 Value iteration and policy iteration. Linear quadratic regulation (LQR). LQG. <br/>
+𓀽 MDPs. Bellman equations, [Reinforcement Learning and Control](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes12.pdf) <br/>
+𓀽 Value iteration and policy iteration. Linear quadratic regulation (LQR), [LQR, DDP and LQG](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes13.pdf) <br/>
 𓀽 Q-learning. Value function approximation. Policy search. Reinforce. POMDPs. <br/>
+𓀽 [On critiques of Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/critiques-ml.pdf) <br/>
 
 
 [Exams](https://github.com/SKKSaikia/CS229_ML/tree/master/Exams) - [2018 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/MTfinalTBA_aut_2018.pdf), ⛷ [2017_Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2017_Aut_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2017_Aut_Midterm_soln.pdf), ⛷ [2016 Spring](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Spr_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Spr_Midterm_soln.pdf), ⛷ [2016 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Aut_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Aut_Midterm_2.pdf), ⛷ [2015 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/midterm2015.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/practicemidterm2sol.pdf), ⛷ [2014 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/midterm2014.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/practicemidterm1sol.pdf), ⛷ [MReview](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/cs229-mt-review.pdf)     
