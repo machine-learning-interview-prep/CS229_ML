@@ -100,6 +100,8 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓀯 [Algebra Calculus](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/refresher-algebra-calculus.pdf)
 𓀯 [Probability Statistics](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/refresher-probabilities-statistics.pdf)
 𓀯 [Combined](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/super-cheatsheet-machine-learning.pdf)
+𓀯 [Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/machine-learning-cheat-sheet.pdf)
+𓀯 [ML tools](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cheatsheets/ml_tool)
 
 # FINAL PROJECT
 
