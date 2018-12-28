@@ -40,12 +40,13 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓀽 Logistic regression. Perceptron. Exponential family. [Linear Algebra](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/1%20-%20cs229-linalg.pdf) <br/>
 𓀽 Generative learning algorithms. Gaussian discriminant analysis. Naive Bayes. <br/>
 𓀽 Support vector machines. [Support Vector Machines](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes2.pdf) <br/>
-𓀽 Model selection and feature selection. <br/>
-𓀽 Evaluating and debugging learning algorithms. <br/>
+𓀽 Model selection and feature selection, [Probability](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/2%20-%20cs229-prob.pdf) <br/>
+𓀽 Evaluating and debugging learning algorithms, [Python](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/CS229_Python_Tutorial.pdf) <br/>
 
 <h2><b> ♞ LEARNING THEORY </b></h2>
 
-𓀽 Bias/variance tradeoff. <br/>
+𓀽 Bias/variance tradeoff. [Advice on applying machine learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/ml_application_advice.pdf), [Bias/variance tradeoff and error analysis](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes4a.pdf) & [page2](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes4b.pdf) <br/>
+𓀽 [Regularization and Model Selection](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes5.pdf) <br/>
 𓀽 Practical advice on how to use learning algorithms. <br/>
 
 <h2><b> ♞ DEEP LEARNING </b></h2>
