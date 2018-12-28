@@ -36,10 +36,10 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <h2><b> ♞ SUPERVISED LEARNING </b></h2>
 
-𓀽 Supervised learning setup. LMS. <br/>
-𓀽 Logistic regression. Perceptron. Exponential family. <br/>
+𓀽 Supervised learning setup. LMS. [Supervised Learning, Discriminative Algorithms](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes1.pdf) <br/>
+𓀽 Logistic regression. Perceptron. Exponential family. [Linear Algebra](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/1%20-%20cs229-linalg.pdf) <br/>
 𓀽 Generative learning algorithms. Gaussian discriminant analysis. Naive Bayes. <br/>
-𓀽 Support vector machines. <br/>
+𓀽 Support vector machines. [Support Vector Machines](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/cs229-notes2.pdf) <br/>
 𓀽 Model selection and feature selection. <br/>
 𓀽 Evaluating and debugging learning algorithms. <br/>
 
