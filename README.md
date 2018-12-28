@@ -69,6 +69,24 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓀽 Q-learning. Value function approximation. Policy search. Reinforce. POMDPs. <br/>
 𓀽 [On critiques of Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/NOTES/section_notes/critiques-ml.pdf) <br/>
 
+<h2><b> Supplementary Notes </b></h2>
+
+♚ Binary classification with +/-1 labels [pdf]() <br/>
+♚ Boosting algorithms and weak learning [pdf]() <br/>
+♚ Functional after implementing stump_booster.m in PS2. [here]() <br/>
+♚ The representer theorem [pdf]() <br/>
+♚ Hoeffding's inequality [pdf]() <br/>
+
+<h2><b> Section Notes </b></h2>
+
+♚ Linear Algebra Review and Reference [pdf]() <br/>
+♚ Probability Theory Review [pdf]() <br/>
+♚ Convex Optimization Overview, Part I [pdf]() <br/>
+♚ Convex Optimization Overview, Part II [pdf]() <br/>
+♚ Hidden Markov Models [pdf]() <br/>
+♚ The Multivariate Gaussian Distribution [pdf]() <br/>
+♚ More on Gaussian Distribution [pdf]() <br/>
+♚ Gaussian Processes [pdf]() <br/>
 
 [Exams](https://github.com/SKKSaikia/CS229_ML/tree/master/Exams) - [2018 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/MTfinalTBA_aut_2018.pdf), ⛷ [2017_Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2017_Aut_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2017_Aut_Midterm_soln.pdf), ⛷ [2016 Spring](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Spr_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Spr_Midterm_soln.pdf), ⛷ [2016 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Aut_Midterm.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/2016_Aut_Midterm_2.pdf), ⛷ [2015 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/midterm2015.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/practicemidterm2sol.pdf), ⛷ [2014 Autumn](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/midterm2014.pdf) : [Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/practicemidterm1sol.pdf), ⛷ [MReview](https://github.com/SKKSaikia/CS229_ML/blob/master/Exams/cs229-mt-review.pdf)     
 
