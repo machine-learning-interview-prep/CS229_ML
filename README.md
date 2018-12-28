@@ -9,9 +9,9 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓄆 <b>Important Books : </b><br/>
 𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow_2.pdf) <br/>
 𓊖 [Introduction to Machine Learning - Ethem Alpaydın](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Introduction%20to%20Machine%20Learning%20Ethem%20Alpayd%C4%B1n_machinelearning_2010.pdf) <br/>
-𓊖 []() <br/>
+𓊖 [Machine Learning A Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) <br/>
 𓊖 [Optimization for Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Optimization%20for%20Machine%20Learning%20%5BSra%2C%20Nowozin%20%26%20Wright%202011-09-30%5D.pdf) <br/>
-𓊖 []() <br/>
+𓊖 [Pattern Recognition and Machine Learning - Bishop](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) <br/>
 𓊖 [Pattern Recognition and Machine Learning Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf) <br/>
 
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
