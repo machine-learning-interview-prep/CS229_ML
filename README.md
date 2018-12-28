@@ -16,7 +16,7 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
 
-# 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)):
+# 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)): [Solutions](https://github.com/SKKSaikia/CS229_ML/blob/master/SOLUTIONS.MD)
 
 🛦 [PSET 0](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps0.pdf) <br/>
 🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) - [testdata](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/data.zip)<br/> 
