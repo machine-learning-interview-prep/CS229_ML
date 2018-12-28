@@ -4,7 +4,7 @@
 
 The "ML" course at Stanford , or to say the most popular Machine Learning course Worldwide is CS229. CS229 is Math Heavy and is 🔥, unlike a simplified online version at Coursera, "[Machine Learning](https://www.coursera.org/learn/machine-learning)". I [completed](https://www.coursera.org/account/accomplishments/verify/4G25AQXD9LDG) the [online](https://github.com/rmarquis/coursera-machinelearning) [version](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford) as a Freshaman and here I take the CS229 Stanford version. I have access to the 2013 video lectures of CS229 from [ClassX](http://classx.stanford.edu/) (I downloaded them, while I was a visiting student at Stanford). All in all, we have the slides, notes from the course website to learn the content. Stay truthful, maintain Honor Code and Keep Learning. Learning is a journey! 
 
-No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf)
+No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf) | [Syllabus](http://cs229.stanford.edu/syllabus.html) 
 
 𓄆 <b>Important Books : </b><br/>
 𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow_2.pdf) <br/>
@@ -15,8 +15,6 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓊖 [Pattern Recognition and Machine Learning Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf) <br/>
 
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
-
-# [Syllabus](http://cs229.stanford.edu/syllabus.html) | [Projects](http://cs229.stanford.edu/projects.html) 
 
 # 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)):
 
