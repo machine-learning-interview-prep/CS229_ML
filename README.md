@@ -103,6 +103,6 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 𓀯 [Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/cheatsheets/machine-learning-cheat-sheet.pdf)
 𓀯 [ML tools](https://github.com/SKKSaikia/CS229_ML/tree/master/doc/cheatsheets/ml_tool)
 
-# FINAL PROJECT
+# FINAL PROJECT | [Past Projects](http://cs229.stanford.edu/projects.html)
 
 CS229 gives a lot of importance to Final Project, going through the [past projects](http://cs229.stanford.edu/projects.html) , I was happy to see the dynamic range of wonderful ideas and application of ML all the way (I have the [list](https://github.com/SKKSaikia/CS229_ML/blob/master/CS229%20-%20Poster%20Session%20Number.xlsx) - [e.g](https://youtu.be/Iz_ifpoYE_g), [eg2](https://youtu.be/u5a7fz_NoB4)). Good CS229 projects are either publishable or minor changes to be able to publish the project. [NIPS (NeurIPS)](https://nips.cc/) , [ICML](https://icml.cc/) are the ML conferences to show ML works to other people around the world. I was ecstatic to start my own and did " ".
