@@ -14,6 +14,8 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 # Course:
 
+This course provides a broad introduction to <b>machine learning</b> and <b>statistical pattern recognition</b>. Topics include: <b>supervised learning</b> (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); <b>unsupervised learning</b> (clustering, dimensionality reduction, kernel methods); <b>learning theory</b> (bias/variance tradeoffs; VC theory; large margins); <b>reinforcement learning and adaptive control</b>. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
+
 <h2><b> ♞ INTRODUCTION </b></h2>
 
 𓀽 Basic concepts.
