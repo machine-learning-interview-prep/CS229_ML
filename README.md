@@ -10,7 +10,7 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 # [Syllabus](http://cs229.stanford.edu/syllabus.html) | [Projects](http://cs229.stanford.edu/projects.html) 
 
-# Homeworks
+# 🥤 Homeworks:
 
 # Course:
 
@@ -27,3 +27,5 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 <h2><b> ♞ REINFORCEMENT LEARNING AND CONTROL </b></h2>
 
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+
+# FINAL PROJECT
