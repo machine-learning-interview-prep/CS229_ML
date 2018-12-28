@@ -55,3 +55,5 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 
 # FINAL PROJECT
+
+CS229 gives a lot of importance to Final Project, going through the [past projects](http://cs229.stanford.edu/projects.html) , I was happy to see the dynamic range of wonderful ideas and application of ML all the way. I was ecstatic to start my own and did " ".
