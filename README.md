@@ -14,4 +14,16 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 # Course:
 
+<h2><b> ♞ INTRODUCTION </b></h2>
+
+<h2><b> ♞ SUPERVISED LEARNING </b></h2>
+
+<h2><b> ♞ LEARNING THEORY </b></h2>
+
+<h2><b> ♞ DEEP LEARNING </b></h2>
+
+<h2><b> ♞ UNSUPERVISED LEARNING </b></h2>
+
+<h2><b> ♞ REINFORCEMENT LEARNING AND CONTROL </b></h2>
+
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
