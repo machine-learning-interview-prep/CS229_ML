@@ -18,7 +18,7 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 # [Syllabus](http://cs229.stanford.edu/syllabus.html) | [Projects](http://cs229.stanford.edu/projects.html) 
 
-# 🥤 Homeworks (Problem Set):
+# 🥤 Homeworks ([Problem Sets](https://github.com/SKKSaikia/CS229_ML/tree/master/PSET)):
 
 🛦 [PSET 0](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps0.pdf) <br/>
 🛦 [PSET 1](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.zip) - [inst](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/ps1.txt) - [testdata](https://github.com/SKKSaikia/CS229_ML/blob/master/PSET/2018/data.zip)<br/> 
