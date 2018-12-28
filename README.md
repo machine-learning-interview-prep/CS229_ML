@@ -6,6 +6,15 @@ The "ML" course at Stanford , or to say the most popular Machine Learning course
 
 No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf)
 
+𓄆 Importnat Books : <br/>
+𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow_2.pdf)
+𓊖 [Introduction to Machine Learning - Ethem Alpaydın](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Introduction%20to%20Machine%20Learning%20Ethem%20Alpayd%C4%B1n_machinelearning_2010.pdf)
+𓊖 []()
+𓊖 [Optimization for Machine Learning](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Optimization%20for%20Machine%20Learning%20%5BSra%2C%20Nowozin%20%26%20Wright%202011-09-30%5D.pdf)
+𓊖 []()
+𓊖 [Pattern Recognition and Machine Learning Solution](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Recognition%20and%20Machine%20Learning%20Solution.pdf)
+𓊖 [Derivatives Backpropagation and Vectorization](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Derivatives%20Backpropagation%20and%20Vectorization.pdf)
+
 <b> Homework (40%) + Mid-term (20%) + Final Project (40%) </b>
 
 # [Syllabus](http://cs229.stanford.edu/syllabus.html) | [Projects](http://cs229.stanford.edu/projects.html) 
