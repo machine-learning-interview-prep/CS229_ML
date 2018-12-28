@@ -6,7 +6,7 @@ The "ML" course at Stanford , or to say the most popular Machine Learning course
 
 No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf) | [handout](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/handout.pdf)
 
-𓄆 Importnat Books : <br/>
+𓄆 <b>Importnat Books : </b><br/>
 𓊖 [Hands on Machine Learning with Scikit Learn and TensorFlow](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow_2.pdf) <br/>
 𓊖 [Introduction to Machine Learning - Ethem Alpaydın](https://github.com/SKKSaikia/CS229_ML/blob/master/doc/Introduction%20to%20Machine%20Learning%20Ethem%20Alpayd%C4%B1n_machinelearning_2010.pdf) <br/>
 𓊖 []() <br/>
