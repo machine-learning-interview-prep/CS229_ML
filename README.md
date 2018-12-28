@@ -20,36 +20,36 @@ No Text , but [Pattern Classification - Richard Duda, Peter Hart and David Stork
 
 <h2><b> ♞ SUPERVISED LEARNING </b></h2>
 
-𓀽 Supervised learning setup. LMS.
-𓀽 Logistic regression. Perceptron. Exponential family.
-𓀽 Generative learning algorithms. Gaussian discriminant analysis. Naive Bayes.
-𓀽 Support vector machines.
-𓀽 Model selection and feature selection.
-𓀽 Evaluating and debugging learning algorithms.
+𓀽 Supervised learning setup. LMS. <br/>
+𓀽 Logistic regression. Perceptron. Exponential family. <br/>
+𓀽 Generative learning algorithms. Gaussian discriminant analysis. Naive Bayes. <br/>
+𓀽 Support vector machines. <br/>
+𓀽 Model selection and feature selection. <br/>
+𓀽 Evaluating and debugging learning algorithms. <br/>
 
 <h2><b> ♞ LEARNING THEORY </b></h2>
 
-𓀽 Bias/variance tradeoff.
-𓀽 Practical advice on how to use learning algorithms.
+𓀽 Bias/variance tradeoff. <br/>
+𓀽 Practical advice on how to use learning algorithms. <br/>
 
 <h2><b> ♞ DEEP LEARNING </b></h2>
 
-𓀽 Neural Networks. Backpropagation.
-𓀽 Vectorization.
+𓀽 Neural Networks. Backpropagation. <br/>
+𓀽 Vectorization. <br/>
 
 <h2><b> ♞ UNSUPERVISED LEARNING </b></h2>
 
-𓀽 Clustering. K-means.
-𓀽 EM. Mixture of Gaussians.
-𓀽 Factor analysis.
-𓀽 PCA (Principal components analysis).
-𓀽 ICA (Independent components analysis).
+𓀽 Clustering. K-means. <br/>
+𓀽 EM. Mixture of Gaussians. <br/>
+𓀽 Factor analysis. <br/>
+𓀽 PCA (Principal components analysis). <br/>
+𓀽 ICA (Independent components analysis). <br/>
 
 <h2><b> ♞ REINFORCEMENT LEARNING AND CONTROL </b></h2>
 
-𓀽 MDPs. Bellman equations.
-𓀽 Value iteration and policy iteration. Linear quadratic regulation (LQR). LQG. 
-𓀽 Q-learning. Value function approximation. Policy search. Reinforce. POMDPs.
+𓀽 MDPs. Bellman equations. <br/>
+𓀽 Value iteration and policy iteration. Linear quadratic regulation (LQR). LQG. <br/>
+𓀽 Q-learning. Value function approximation. Policy search. Reinforce. POMDPs. <br/>
 
 
 [Exams]() | [MIT ML](http://machinelearning.mit.edu/) | [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) | [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
